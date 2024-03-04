@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤸, I'm Asako</h1>
 <h3 align="center">A web developer with stacks of talent in San Francisco</h3>
 
-- 🔭 I’m currently working on [Hipnode](hipnode-xk0v.onrender.com/)
+- 🔭 I’m currently working on [AI Image Library](https://github.com/asakohayase/AIImageLibrary)
 
 - 💬 Ask me about **Next.js and Typescript**
 
