@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AI Youtube Quiz Generator](https://github.com/asakohayase/youtube_quiz_generator) 
 
-- 💬 Ask me about **Next.js, Typescript abd Python**
+- 💬 Ask me about **Next.js, Typescript and Python**
   
 - :art: Love creating unique icons with **Figma**
 
