@@ -2,10 +2,10 @@
 <h3 align="center">A web developer with stacks of talent in San Francisco</h3>
 
 - 🔭 I’m currently working on [AI Youtube Quiz Generator](https://github.com/asakohayase/youtube_quiz_generator)
-  
-- :robot: Currently diving into the latest AI magic like **LangChain, LlamaIndex, and Crew AI** —because keeping up with cutting-edge tech is my version of a good time!
 
 - 💬 Ask me about **Next.js, Typescript and Python**
+
+- :robot: Currently diving into the latest AI magic like **LangChain, LlamaIndex, and Crew AI** —because keeping up with cutting-edge tech is my version of a good time!
   
 - :art: Love creating unique icons with **Figma**
 
