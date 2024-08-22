@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🤸, I'm Asako</h1>
 <h3 align="center">A web developer with stacks of talent in San Francisco</h3>
 
-- 🔭 I’m currently working on [AI Youtube Quiz Generator](https://github.com/asakohayase/youtube_quiz_generator)
 
 - 💬 Ask me about **Next.js, Typescript and Python**
 
