@@ -5,8 +5,6 @@
 - 💬 Ask me about **Next.js, Typescript and Python**
 
 - :robot: Currently diving into the latest AI magic like **LangChain, LlamaIndex, and Crew AI** —because keeping up with cutting-edge tech is my version of a good time!
-  
-- :art: Love creating unique icons with **Figma**
 
 - 📫 How to reach me **asako.ch.ha@gmail.com**
 
