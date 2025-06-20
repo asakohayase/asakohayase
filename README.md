@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤸, I'm Asako</h1>
-<h3 align="center">A web developer with stacks of talent in San Francisco</h3>
+<h3 align="center">AI engineer in San Francisco</h3>
 
 
 - 💬 Ask me about Next.js, TypeScript, Python & AI/ML
