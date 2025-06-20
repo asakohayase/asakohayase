@@ -2,11 +2,10 @@
 <h3 align="center">A web developer with stacks of talent in San Francisco</h3>
 
 
-- 💬 Ask me about **Next.js, Typescript and Python**
+- 💬 Ask me about Next.js, TypeScript, Python & AI/ML
+- 🤖 Building AI-powered apps
+- 🚀 Organizing AI community events and bridging full-stack dev with AI innovation
 
-- :robot: Currently diving into the latest AI magic like **LangChain, LlamaIndex, and Crew AI** —because keeping up with cutting-edge tech is my version of a good time!
-
-- 📫 How to reach me **asako.ch.ha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
